@@ -9,7 +9,9 @@
 
 <p>O projeto inovador foi desenvolvido utilizando a poderosa biblioteca React + Create React App.</p></div><br>
 
-![Alt text](preview.jpg)
+![alt text](<agência de marketing digital.jpg>)
+
+![alt text](<digital marketing agency.jpg>)
 
 Primeiros passos com o aplicativo Create React
 
