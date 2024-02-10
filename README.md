@@ -9,9 +9,11 @@
 
 <p>O projeto inovador foi desenvolvido utilizando a poderosa biblioteca React + Create React App.</p></div><br>
 
-![alt text](<agência de marketing digital.jpg>)
+![agência de marketing digital](https://github.com/daniel-portela/digital-marketing-agency/assets/110783805/5f1d249a-a685-4a94-ac70-e4efe161f07b)
 
-![alt text](<digital marketing agency.jpg>)
+
+![digital marketing agency](https://github.com/daniel-portela/digital-marketing-agency/assets/110783805/0020d500-cc7e-4b60-93d9-e9c284210e64)
+
 
 Primeiros passos com o aplicativo Create React
 
