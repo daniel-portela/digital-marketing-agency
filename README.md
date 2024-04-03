@@ -1,11 +1,6 @@
 <div align="center">
 
-<b>Agência de Marketing Digital</b>
-
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
+<a href="https://digital-marketing-agency-lovat.vercel.app/" target="_blank">Agência de Marketing Digital</a>
 
 <p>O projeto inovador foi desenvolvido utilizando a poderosa biblioteca React + Create React App.</p></div><br>
 
@@ -14,12 +9,17 @@
 
 ![digital marketing agency](https://github.com/daniel-portela/digital-marketing-agency/assets/110783805/0020d500-cc7e-4b60-93d9-e9c284210e64)
 
+👨🏼‍💻 <b>Tecnologias utilizadas:</b>
 
-Primeiros passos com o aplicativo Create React
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
+<hr>
+
+🛠️ <b>Executando projeto:</b>
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
-
-Scripts disponíveis
 
 No diretório do projeto, você pode executar:
 
@@ -56,19 +56,22 @@ Em vez disso, ele copiará todos os arquivos de configuração e as dependência
 
 Você nunca precisa usar `eject`. O conjunto de recursos selecionados é adequado para implantações pequenas e médias e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para isso.
 
-<br><b>Contato:</b>
+🔒 <b>Licença</b>
 
-<p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
+Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
 
-<a href="https://linkedin.com/in/danielengineer" target="_blank">
+<b>Contato:</b>
+
+Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
+
+Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
+
+<a href="https://linkedin.com/in/danielportelati" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
- <a href="https://instagram.com/danielengineer_" target="_blank">
+ <a href="https://instagram.com/danielportelati" target="_blank">
  <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
- <a href="https://wa.me/77999109489" target="_blank">
+ <a href="https://wa.me/77999408643" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
-<a href="https://www.behance.net/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Behance-05122A?style=flat&logo=behance" alt="behance"/>
 </a>
