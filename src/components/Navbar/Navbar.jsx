@@ -28,13 +28,13 @@ const Navbar = () => {
                     <div className='navbar-collapse-content'>
                         <ul className='navbar-nav'>
                             <li className='text-white'>
-                                <Link to = "/">Sobre</Link>
+                                <Link to = "/">Início</Link>
                             </li>
                             <li className='text-white'>
                                 <Link to = "/">Características</Link>
                             </li>
                             <li className='text-white'>
-                                <Link to = "/">Preços</Link>
+                                <Link to = "/">Sobre</Link>
                             </li>
                             <li className='text-white'>
                                 <Link to = "/">Contato</Link>
